@@ -1,0 +1,18 @@
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\wakachat.csproj.GenerateResource.Cache
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+c:\users\wakaf\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\wakachat.csprojResolveAssemblyReference.cache
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\wakachat.csprojResolveAssemblyReference.cache
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\wakachat.csproj.GenerateResource.Cache
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\wakaf\Desktop\Project\wakachat\C#\wakachat_client\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.MainForm.resources
